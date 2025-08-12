@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,sepchina.cn
 DOMAIN-SUFFIX,zentao.sepchina.cn
 DOMAIN-SUFFIX,osaas.sepchina.cn
+DOMAIN-SUFFIX,alibabacloud.com
 # 三星 Galaxy Store 常用域名直连
 DOMAIN-SUFFIX,samsung.com,DIRECT
 DOMAIN-SUFFIX,samsungapps.com,DIRECT
