@@ -1,12 +1,53 @@
-ui.com
-unifi-os.ui.com
-unifi.ui.com
-unifi-network.ui.com
-ubnt.com
-*.ubnt.com
-*.ui.com
-10.0.0.0/8
-172.16.0.0/12
-192.168.0.0/16
-fd00::/8
-fe80::/10
+# UniFi Official Domains – Local & Cloud Access (Direct)
+.unifi
+.ui.com
+.unifi.ui.com
+.network.unifi.ui.com
+.identity.ui.com
+.account.ui.com
+.help.ui.com
+.community.ui.com
+.store.ui.com
+.design.ui.com
+
+# Protect / Video / NVR
+.video.ui.com
+.protect.ui.com
+.unifi-video.com
+.nvr.local
+.unvr.local
+.unvr
+.unifi-protect.ui.com
+
+# Network / Controller
+.unifi-network.ui.com
+.network.ui.com
+.wifi.ui.com
+.ap.local
+.ubnt.local
+.ui.direct
+.unifi.direct
+.unifi.home
+
+# Device local fallback Hostnames
+.ubnt
+.ubnt.com
+.unifi
+.unifi.lan
+.unifi.home
+.unifi.internal
+
+# mDNS / Service Discovery
+.local
+.localdomain
+
+# Device specific
+.uap
+.u6
+.usw
+.udm
+.udr
+.udb
+.u7
+.unifi-os
+.unifios
