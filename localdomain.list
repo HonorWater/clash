@@ -1,3 +1,8 @@
+
+IP-CIDR,47.102.98.159/32,no-resolve
+IP-CIDR,47.103.6.17/32,no-resolve
+IP-CIDR,47.99.237.102/32,no-resolve
+
 DOMAIN-SUFFIX,sepchina.cn
 DOMAIN-SUFFIX,sepai.sepchina.cn
 DOMAIN-SUFFIX,zentao.sepchina.cn
